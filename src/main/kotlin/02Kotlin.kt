@@ -10,4 +10,5 @@ fun main() {
     println(intArr[0])
     println(intArr2[1])
     println(anyArr[1])
+    
 }
