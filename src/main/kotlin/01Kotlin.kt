@@ -6,5 +6,4 @@ fun main() {
     val b:Int = 1234
     //b = 3//중간에 값을 바꿀 수 없음(에러)
     print(b)
-
 }
