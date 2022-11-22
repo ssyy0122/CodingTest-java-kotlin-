@@ -13,5 +13,4 @@ fun main(){
 fun main2(args: Array<String>){
     val name = if (args.size>0) args[0]else "kotlin"
     println("hello,$name")
-
 }
